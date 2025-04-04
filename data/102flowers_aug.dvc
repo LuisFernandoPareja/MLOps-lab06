@@ -1,0 +1,6 @@
+outs:
+- md5: 9b76970c734c7fff15913b6a559c8bc8.dir
+  size: 36977028
+  nfiles: 1565
+  hash: md5
+  path: 102flowers_aug
